@@ -12,6 +12,6 @@ public class LogInPage {
 	}
 	
 	public void loginset11() {
-		System.out.println("log in set11");
+		System.out.println("log in set11 ");
 	}
 }
